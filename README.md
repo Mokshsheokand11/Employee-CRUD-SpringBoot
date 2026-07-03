@@ -186,14 +186,3 @@ The focus of this project is backend development. Instead of building a frontend
 - Postman API Testing
 - Git & GitHub Version Control
 
-## Author
-
-**Moksh Sheokand**
-
-B.Tech Computer Science Engineering
-
-Manav Rachna International Institute of Research and Studies
-
----
-
-⭐ This project was developed to learn Spring Boot backend development, REST APIs, and database integration using MySQL.
